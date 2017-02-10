@@ -3,3 +3,4 @@ Git is free software change_mark
 
 commit1
 commit2
+bugfix
