@@ -10,5 +10,5 @@ creating a new branch is quick.
 creating a new branch is quick & simple
 test_reset_soft
 ____
-check log
+check logX
 test_reset_mixed
