@@ -4,4 +4,7 @@ test
 commit1
 commit2
 test1
+test2
 bugfix
+creating a new branch is quick.
+____
