@@ -9,6 +9,8 @@ bugfix
 creating a new branch is quick.
 creating a new branch is quick & simple
 test_reset_soft
+
+close fast forward
 ____
 check logX
 test_reset_mixed
