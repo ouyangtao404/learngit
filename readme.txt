@@ -7,4 +7,5 @@ test1
 test2
 bugfix
 creating a new branch is quick.
+creating a new branch is quick and simple
 ____
